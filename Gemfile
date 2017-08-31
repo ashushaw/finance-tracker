@@ -13,7 +13,12 @@ gem 'rails', '~> 5.1.2'
 gem 'puma', '~> 3.7'
 # Use SCSS for stylesheets
 gem 'bootstrap-sass', '~> 3.3.6'
+gem 'twitter-bootstrap-rails'
+gem 'devise-bootstrap-views'
 gem 'sass-rails', '~> 5.0'
+
+#Use devise for authentication system
+gem 'devise'
 
 #Use Pagination
 gem 'will_paginate', '>= 3.1'
