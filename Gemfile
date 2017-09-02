@@ -20,6 +20,10 @@ gem 'sass-rails', '~> 5.0'
 #Use devise for authentication system
 gem 'devise'
 
+
+#Used For getting the stock information
+gem 'stock_quote'
+
 #Use Pagination
 gem 'will_paginate', '>= 3.1'
 gem 'bootstrap-will_paginate', '0.0.10'
